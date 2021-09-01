@@ -1,0 +1,8 @@
+Literal puedan ingresar texto. 
+void setup (){
+size(720, 480)
+}
+
+// Este es un pase de lista cada quién irá agregando su Nombre a través de un Debug.Log. 
+
+Debug.Log("Ali Mejía Cortés");
