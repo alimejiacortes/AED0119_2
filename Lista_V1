@@ -5,3 +5,6 @@
 Debu.Log("jonatan Ali Mejía Cortés");
 // Los nombres tienen que agregarse empezando por Apelllido
 Debug.Log("Mejía Cortés Ali);
+
+Debug.Log("García Fong Sebastián");
+
