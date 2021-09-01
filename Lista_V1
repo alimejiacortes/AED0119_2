@@ -6,3 +6,4 @@ size(720, 480)
 // Este es un pase de lista cada quién irá agregando su Nombre a través de un Debug.Log. 
 
 Debug.Log("Ali Mejía Cortés");
+Debu.Log("jonatan Ali Mejía Cortés");
