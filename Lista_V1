@@ -3,5 +3,5 @@
 
 
 Debu.Log("jonatan Ali Mejía Cortés");
-// Borré el primer nombre introducido. 
-Debug.Log("Ali Mejía Cortés);
+// Los nombres tienen que agregarse empezando por Apelllido
+Debug.Log("Mejía Cortés Ali);
