@@ -2,6 +2,6 @@
 // Este es un pase de lista cada quién irá agregando su Nombre a través de un Debug.Log. 
 
 
-Debu.Log("jonatan Ali Mejía Cortés");
+
 // Los nombres tienen que agregarse empezando por Apelllido
-Debug.Log("Mejía Cortés Ali);
+Debug.Log("Vieyra Avila Hector");
